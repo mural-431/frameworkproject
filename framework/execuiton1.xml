@@ -1,0 +1,7 @@
+<suite name="smokeTest">
+	<test name="loginTest">
+		<classes>
+			<class name="com.crm.testcase.Contacttestpage" />
+		</classes>
+	</test>
+</suite>
